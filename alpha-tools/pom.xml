@@ -15,7 +15,7 @@
     <modules>
         <module>alpha-redis</module>
         <module>alpha-distribute-lock</module>
-        <module>alpha-job</module>
+        <!--<module>alpha-job</module>-->
         <module>alpha-shiro</module>
         <module>alpha-queue</module>
     </modules>
