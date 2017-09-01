@@ -9,11 +9,11 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>common-business</artifactId>
+    <artifactId>alpha-business</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>common-business-model</module>
-        <module>common-business-service</module>
+        <module>alpha-business-model</module>
+        <module>alpha-business-service</module>
     </modules>
 
 
