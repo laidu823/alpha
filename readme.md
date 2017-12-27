@@ -1,6 +1,13 @@
 
-### 此项目来源于伟大的 __[陈文老师](https://github.com/coutPKprintf)__ 的项目[coutPKprintf/alpha](https://github.com/coutPKprintf/alpha), 本人仅仅做一些后期维护的工作。
+### This project comes from the [coutPKprintf/alpha](https://github.com/coutPKprintf/alpha) project of the great teacher [Wen.Chen](https://github.com/coutPKprintf), I just do some post-maintenance work.
 
-### 关于项目详细[介绍](about.md)
+### About the project [details](about.md).
 
-### 项目刚刚起步，许多地方尚需要不断完善，希望能够迎来一批热血青年，共同打造这一企业级项目快速构建"神器"。
+### The project has just started, and many places still need continuous improvement. We hope that we can welcome a group of passionate youths to jointly build this enterprise-level project to rapidly build an "artifact".
+
+### NOTE :
+> If you want to submit a pull request, there're some requirements:
+
+> * IDE: Intellij Idea whit lombok plugin
+> * Compiler: Java 1.8 (because of retrolambda).
+> * Do NOT modify root pom files.
